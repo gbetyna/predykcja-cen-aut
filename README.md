@@ -22,5 +22,5 @@ Dodatkowo przygotowana została aplikacja webowa w Streamlit umożliwiająca int
 
 ## Struktura projektu:
 
-`predykcja-cen-aut/ │ ├── model_generowanie_danych.py ├── model_trening.py ├── eda.py ├── app.py ├── dane.csv ├── model_random_forest.pkl ├── transformer.pkl ├── requirements.txt └── README.md`
+```predykcja-cen-aut/ │ ├── model_generowanie_danych.py ├── model_trening.py ├── eda.py ├── app.py ├── dane.csv ├── model_random_forest.pkl ├── transformer.pkl ├── requirements.txt └── README.md```
 
