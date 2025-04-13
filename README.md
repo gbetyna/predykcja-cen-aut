@@ -22,8 +22,6 @@ Dodatkowo przygotowana została aplikacja webowa w Streamlit umożliwiająca int
 
 ## Struktura projektu:
 
-## Struktura projektu:
-
 ```
 predykcja-cen-aut/
 │
